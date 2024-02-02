@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Teodora
 ===============================================================================================================================
 
-Computer Science 3rd year student
+3rd year Computer Science student
 ---------------------------------
 
 A passionate 3rd-year Computer Science student with a knack for turning ideas into code. My journey in the world of programming has been an exciting one, and I thrive on challenges that push my skills to new heights. Constantly exploring, learning, and embracing the beauty of software development. 🚀
